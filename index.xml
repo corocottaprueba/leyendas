@@ -2,11 +2,76 @@
 <dataIndex battleScribeVersion="2.03" name="Leyendas" indexUrl="https://raw.githubusercontent.com/corocottaprueba/leyendas/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <dataIndexEntries>
     <dataIndexEntry filePath="Warhammer_Fantasy_-_6ª_Edición_con_MDNR_-_v1.0.gstz" dataType="gamesystem" dataId="fd97-5cfe-d46c-03c6" dataName="Warhammer Fantasy - 6ª Edición con MDNR - v1.0" dataBattleScribeVersion="2.03" dataRevision="2"/>
-    <dataIndexEntry filePath="MDNR_Condes_Vampiro v5.catz" dataType="catalogue" dataId="af58-4303-e5f7-6815" dataName="MDNR Condes Vampiro" dataBattleScribeVersion="2.03" dataRevision="5"/>
-    <dataIndexEntry filePath="MDNR_Elfos_Oscuros v4_5.catz" dataType="catalogue" dataId="88fd-bc7b-a990-f36e" dataName="MDNR Elfos Oscuros " dataBattleScribeVersion="2.03" dataRevision="3"/>
-    <dataIndexEntry filePath="MDNR_Elfos_Silvanos v4_5.catz" dataType="catalogue" dataId="712f-e863-4d8b-f9aa" dataName="MDNR Elfos Silvanos" dataBattleScribeVersion="2.03" dataRevision="1"/>
-    <dataIndexEntry filePath="MDNR_Bretonia_v5.catz" dataType="catalogue" dataId="cd8a-87a3-bb46-6004" dataName="MDNR Bretonia v5" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Warhammer_Fantasy_-_6ª_Edición_con_MDNR_-_v1.0.gstz" dataType="gamesystem" dataId="fd97-5cfe-d46c-03c6" dataName="Warhammer Fantasy - 6ª Edición con MDNR - v1.0" dataBattleScribeVersion="2.03" dataRevision="2"/>
+    <dataIndexEntry filePath="Blood And Valor.gstz" dataType="gamesystem" dataId="cb2c-724e-f9b6-a658" dataName="Blood And Valor" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Blood And Valor.gstz" dataType="gamesystem" dataId="cb2c-724e-f9b6-a658" dataName="Blood And Valor" dataBattleScribeVersion="2.03" dataRevision="1"/>
     <dataIndexEntry filePath="MDNR_Altos_Elfos v4_5.catz" dataType="catalogue" dataId="d3b3-94b1-5e8a-2250" dataName="MDNR Altos Elfos " dataBattleScribeVersion="2.03" dataRevision="1"/>
-    <dataIndexEntry filePath="MDNR_Enanos v4_5.catz" dataType="catalogue" dataId="b1c2-2288-abba-9142" dataName="MDNR Enanos" dataBattleScribeVersion="2.03" dataRevision="2"/>
+    <dataIndexEntry filePath="MDNR_Elfos_Oscuros v4_5.catz" dataType="catalogue" dataId="88fd-bc7b-a990-f36e" dataName="MDNR Elfos Oscuros " dataBattleScribeVersion="2.03" dataRevision="3"/>
+    <dataIndexEntry filePath="MDNR_Enanos v4_5.catz" dataType="catalogue" dataId="b1c2-2288-abba-9142" dataName="MDNR Enanos" dataBattleScribeVersion="2.03" dataRevision="3"/>
+    <dataIndexEntry filePath="MDNR_Altos_Elfos v4_5.catz" dataType="catalogue" dataId="d3b3-94b1-5e8a-2250" dataName="MDNR Altos Elfos " dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="MDNR_Enanos v4_5.catz" dataType="catalogue" dataId="b1c2-2288-abba-9142" dataName="MDNR Enanos" dataBattleScribeVersion="2.03" dataRevision="3"/>
+    <dataIndexEntry filePath="MDNR_Condes_Vampiro v5.catz" dataType="catalogue" dataId="af58-4303-e5f7-6815" dataName="MDNR Condes Vampiro" dataBattleScribeVersion="2.03" dataRevision="5"/>
+    <dataIndexEntry filePath="MDNR_Elfos_Silvanos v4_5.catz" dataType="catalogue" dataId="712f-e863-4d8b-f9aa" dataName="MDNR Elfos Silvanos" dataBattleScribeVersion="2.03" dataRevision="2"/>
+    <dataIndexEntry filePath="MDNR_Condes_Vampiro v5.catz" dataType="catalogue" dataId="af58-4303-e5f7-6815" dataName="MDNR Condes Vampiro" dataBattleScribeVersion="2.03" dataRevision="5"/>
+    <dataIndexEntry filePath="MDNR_Elfos_Silvanos v4_5.catz" dataType="catalogue" dataId="712f-e863-4d8b-f9aa" dataName="MDNR Elfos Silvanos" dataBattleScribeVersion="2.03" dataRevision="2"/>
+    <dataIndexEntry filePath="MDNR_Bretonia_v5.catz" dataType="catalogue" dataId="cd8a-87a3-bb46-6004" dataName="MDNR Bretonia v5" dataBattleScribeVersion="2.03" dataRevision="2"/>
+    <dataIndexEntry filePath="MDNR_Bretonia_v5.catz" dataType="catalogue" dataId="cd8a-87a3-bb46-6004" dataName="MDNR Bretonia v5" dataBattleScribeVersion="2.03" dataRevision="2"/>
+    <dataIndexEntry filePath="MDNR_Elfos_Oscuros v4_5.catz" dataType="catalogue" dataId="88fd-bc7b-a990-f36e" dataName="MDNR Elfos Oscuros " dataBattleScribeVersion="2.03" dataRevision="3"/>
+    <dataIndexEntry filePath="MDNR_Altos_Elfos v4_5.catz" dataType="catalogue" dataId="d3b3-94b1-5e8a-2250" dataName="MDNR Altos Elfos " dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="MDNR_Elfos_Oscuros v4_5.catz" dataType="catalogue" dataId="88fd-bc7b-a990-f36e" dataName="MDNR Elfos Oscuros " dataBattleScribeVersion="2.03" dataRevision="3"/>
+    <dataIndexEntry filePath="MDNR_Enanos v4_5.catz" dataType="catalogue" dataId="b1c2-2288-abba-9142" dataName="MDNR Enanos" dataBattleScribeVersion="2.03" dataRevision="3"/>
+    <dataIndexEntry filePath="MDNR_Altos_Elfos v4_5.catz" dataType="catalogue" dataId="d3b3-94b1-5e8a-2250" dataName="MDNR Altos Elfos " dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="MDNR_Enanos v4_5.catz" dataType="catalogue" dataId="b1c2-2288-abba-9142" dataName="MDNR Enanos" dataBattleScribeVersion="2.03" dataRevision="3"/>
+    <dataIndexEntry filePath="MDNR_Condes_Vampiro v5.catz" dataType="catalogue" dataId="af58-4303-e5f7-6815" dataName="MDNR Condes Vampiro" dataBattleScribeVersion="2.03" dataRevision="5"/>
+    <dataIndexEntry filePath="MDNR_Elfos_Silvanos v4_5.catz" dataType="catalogue" dataId="712f-e863-4d8b-f9aa" dataName="MDNR Elfos Silvanos" dataBattleScribeVersion="2.03" dataRevision="2"/>
+    <dataIndexEntry filePath="MDNR_Condes_Vampiro v5.catz" dataType="catalogue" dataId="af58-4303-e5f7-6815" dataName="MDNR Condes Vampiro" dataBattleScribeVersion="2.03" dataRevision="5"/>
+    <dataIndexEntry filePath="MDNR_Elfos_Silvanos v4_5.catz" dataType="catalogue" dataId="712f-e863-4d8b-f9aa" dataName="MDNR Elfos Silvanos" dataBattleScribeVersion="2.03" dataRevision="2"/>
+    <dataIndexEntry filePath="MDNR_Bretonia_v5.catz" dataType="catalogue" dataId="cd8a-87a3-bb46-6004" dataName="MDNR Bretonia v5" dataBattleScribeVersion="2.03" dataRevision="2"/>
+    <dataIndexEntry filePath="MDNR_Bretonia_v5.catz" dataType="catalogue" dataId="cd8a-87a3-bb46-6004" dataName="MDNR Bretonia v5" dataBattleScribeVersion="2.03" dataRevision="2"/>
+    <dataIndexEntry filePath="MDNR_Elfos_Oscuros v4_5.catz" dataType="catalogue" dataId="88fd-bc7b-a990-f36e" dataName="MDNR Elfos Oscuros " dataBattleScribeVersion="2.03" dataRevision="3"/>
+    <dataIndexEntry filePath="British Army - Campaign in the Near East.catz" dataType="catalogue" dataId="6a7f-f7bc-3853-42e4" dataName="British Army - Campaign in the Near East" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="British Army - Campaign in the Near East.catz" dataType="catalogue" dataId="6a7f-f7bc-3853-42e4" dataName="British Army - Campaign in the Near East" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Ottoman Army - Empire.catz" dataType="catalogue" dataId="4f42-3f59-249d-2127" dataName="Ottoman Army - Empire" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="American Army.catz" dataType="catalogue" dataId="f7bb-4eaf-f71f-8455" dataName="American Army" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Ottoman Army - Empire.catz" dataType="catalogue" dataId="4f42-3f59-249d-2127" dataName="Ottoman Army - Empire" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Belgian Army.catz" dataType="catalogue" dataId="ec24-c138-7673-0bec" dataName="Belgian Army" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="American Army.catz" dataType="catalogue" dataId="f7bb-4eaf-f71f-8455" dataName="American Army" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="French Army.catz" dataType="catalogue" dataId="5572-753e-f98f-3f55" dataName="French Army" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Australian and New Zealand Army Corps (ANZAC).catz" dataType="catalogue" dataId="3460-c2e5-2810-cdf1" dataName="Australian and New Zealand Army Corps (ANZAC)" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="British Army.catz" dataType="catalogue" dataId="a7a4-d782-6722-bb93" dataName="British Army" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="British Army.catz" dataType="catalogue" dataId="a7a4-d782-6722-bb93" dataName="British Army" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="German Army.catz" dataType="catalogue" dataId="6303-4653-e72b-fe2d" dataName="German Army" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Ottoman Army - Near East.catz" dataType="catalogue" dataId="f0cb-86d8-e8ed-e662" dataName="Ottoman Army - Near East" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="German Army.catz" dataType="catalogue" dataId="6303-4653-e72b-fe2d" dataName="German Army" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="German Army - East Africa.catz" dataType="catalogue" dataId="86ab-2c34-49f1-2a98" dataName="German Army - East Africa" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Ottoman Army - Near East.catz" dataType="catalogue" dataId="f0cb-86d8-e8ed-e662" dataName="Ottoman Army - Near East" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Belgian Army.catz" dataType="catalogue" dataId="ec24-c138-7673-0bec" dataName="Belgian Army" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="British Army - East Africa.catz" dataType="catalogue" dataId="feb4-550c-3c36-9cbf" dataName="British Army - East Africa" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Australian and New Zealand Army Corps (ANZAC).catz" dataType="catalogue" dataId="3460-c2e5-2810-cdf1" dataName="Australian and New Zealand Army Corps (ANZAC)" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="German Army - East Africa.catz" dataType="catalogue" dataId="86ab-2c34-49f1-2a98" dataName="German Army - East Africa" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="British Army - East Africa.catz" dataType="catalogue" dataId="feb4-550c-3c36-9cbf" dataName="British Army - East Africa" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="French Army.catz" dataType="catalogue" dataId="5572-753e-f98f-3f55" dataName="French Army" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="British Army - Campaign in the Near East.catz" dataType="catalogue" dataId="6a7f-f7bc-3853-42e4" dataName="British Army - Campaign in the Near East" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="British Army - Campaign in the Near East.catz" dataType="catalogue" dataId="6a7f-f7bc-3853-42e4" dataName="British Army - Campaign in the Near East" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Ottoman Army - Empire.catz" dataType="catalogue" dataId="4f42-3f59-249d-2127" dataName="Ottoman Army - Empire" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="American Army.catz" dataType="catalogue" dataId="f7bb-4eaf-f71f-8455" dataName="American Army" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Ottoman Army - Empire.catz" dataType="catalogue" dataId="4f42-3f59-249d-2127" dataName="Ottoman Army - Empire" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Belgian Army.catz" dataType="catalogue" dataId="ec24-c138-7673-0bec" dataName="Belgian Army" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="American Army.catz" dataType="catalogue" dataId="f7bb-4eaf-f71f-8455" dataName="American Army" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="French Army.catz" dataType="catalogue" dataId="5572-753e-f98f-3f55" dataName="French Army" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Australian and New Zealand Army Corps (ANZAC).catz" dataType="catalogue" dataId="3460-c2e5-2810-cdf1" dataName="Australian and New Zealand Army Corps (ANZAC)" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="British Army.catz" dataType="catalogue" dataId="a7a4-d782-6722-bb93" dataName="British Army" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="British Army.catz" dataType="catalogue" dataId="a7a4-d782-6722-bb93" dataName="British Army" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="German Army.catz" dataType="catalogue" dataId="6303-4653-e72b-fe2d" dataName="German Army" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Ottoman Army - Near East.catz" dataType="catalogue" dataId="f0cb-86d8-e8ed-e662" dataName="Ottoman Army - Near East" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="German Army.catz" dataType="catalogue" dataId="6303-4653-e72b-fe2d" dataName="German Army" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="German Army - East Africa.catz" dataType="catalogue" dataId="86ab-2c34-49f1-2a98" dataName="German Army - East Africa" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Ottoman Army - Near East.catz" dataType="catalogue" dataId="f0cb-86d8-e8ed-e662" dataName="Ottoman Army - Near East" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Belgian Army.catz" dataType="catalogue" dataId="ec24-c138-7673-0bec" dataName="Belgian Army" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="British Army - East Africa.catz" dataType="catalogue" dataId="feb4-550c-3c36-9cbf" dataName="British Army - East Africa" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="Australian and New Zealand Army Corps (ANZAC).catz" dataType="catalogue" dataId="3460-c2e5-2810-cdf1" dataName="Australian and New Zealand Army Corps (ANZAC)" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="German Army - East Africa.catz" dataType="catalogue" dataId="86ab-2c34-49f1-2a98" dataName="German Army - East Africa" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="British Army - East Africa.catz" dataType="catalogue" dataId="feb4-550c-3c36-9cbf" dataName="British Army - East Africa" dataBattleScribeVersion="2.03" dataRevision="1"/>
+    <dataIndexEntry filePath="French Army.catz" dataType="catalogue" dataId="5572-753e-f98f-3f55" dataName="French Army" dataBattleScribeVersion="2.03" dataRevision="1"/>
   </dataIndexEntries>
 </dataIndex>
